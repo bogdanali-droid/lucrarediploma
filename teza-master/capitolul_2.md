@@ -10,7 +10,7 @@ Cadrul didactic care a proiectat și aplicat demersul este, totodată, autoarea 
 
 ## 2.2. Designul cercetării și paradigma metodologică
 
-Cercetarea se înscrie în paradigma calitativă, cu elemente de cercetare-acțiune. Alegerea acestei paradigme este justificată de natura obiectului studiat: motivația și implicarea elevilor sunt fenomene complexe, dependente de context, care nu pot fi surprinse în profunzime prin instrumente cantitative. Ionescu și Radu arată că cercetarea pedagogică aplicativă are valoare tocmai prin capacitatea sa de a surprinde nuanțele practicii reale, observabile în comportamentul elevilor și în dinamica grupului de lucru [3, p. 67].
+Cercetarea se înscrie în paradigma calitativă, cu elemente de cercetare-acțiune. Alegerea acestei paradigme este justificată de natura obiectului studiat: motivația și implicarea elevilor sunt fenomene complexe, dependente de context, care nu pot fi surprinse în profunzime prin instrumente cantitative. Ionescu și Radu arată că cercetarea pedagogică aplicativă are valoare tocmai prin capacitatea sa de a surprinde nuanțele practicii reale, observabile în comportamentul elevilor și în dinamica grupului de lucru [14, p. 67].
 
 Ipoteza cercetării: aplicarea unor activități didactice integrate de tip STREAM, care îmbină abordarea tradițională la clasă cu valorificarea instrumentelor digitale în activitatea independentă, stimulează motivația intrinsecă și implicarea autentică a elevilor de vârstă școlară mică, indiferent de profilul lor de învățare.
 
@@ -68,7 +68,7 @@ Elevii au fost organizați în echipe de 4, cu roluri clare: arhitect (cel care 
 
 Parcul trebuia să includă obligatoriu: bănci solare, piste de biciclete, spații verzi, locuri de reciclare. Libertatea echipei consta în cum să dispună aceste elemente, ce alte facilități să adauge și cum să arate estetic produsul final. Componenta A a generat produse vizuale remarcabile — unul dintre grupuri a creat un parc cu un „copac al dorințelor" unde fiecare vizitator putea atârna un mesaj pentru natură.
 
-Prezentarea lucrărilor a fost momentul de valorizare publică a muncii fiecărei echipe. Comunicatorul a prezentat proiectul, ceilalți membri au răspuns la întrebări. Cucoș subliniază că valorizarea publică a contribuției fiecărui elev este una dintre cele mai eficiente pârghii de stimulare a motivației la vârsta școlară mică [1, p. 61].
+Prezentarea lucrărilor a fost momentul de valorizare publică a muncii fiecărei echipe. Comunicatorul a prezentat proiectul, ceilalți membri au răspuns la întrebări. Cucoș subliniază că valorizarea publică a contribuției fiecărui elev este una dintre cele mai eficiente pârghii de stimulare a motivației la vârsta școlară mică [8, p. 61].
 
 Reflecția finală a zilei, consemnată în jurnale: „Cum ar arăta orașul meu dacă ar fi plin de parcuri?" — a produs unele dintre cele mai interesante texte ale întregii săptămâni, câțiva elevi descriind orașe imaginare cu detalii arhitecturale surprinzătoare.
 
@@ -182,7 +182,7 @@ Prezentarea compunerilor în fața clasei a generat discuții autentice, în car
 
 Ultima activitate a săptămânii a fost Expoziția verde: amenajarea holului școlii cu toate produsele realizate de elevi pe parcursul celor cinci zile — postere, machete, afișe, compuneri, desene. Alte clase au fost invitate să viziteze expoziția, iar elevii clasei a III-a au fost ghizi, explicând vizitatorilor ce au creat și de ce.
 
-Acest moment a reprezentat finalizarea ciclului complet al unui proiect STREAM autentic: de la problemă reală (degradarea mediului) la produs public (expoziție cu audiență reală). Ionescu și Radu subliniază că metoda proiectului are valoare pedagogică maximă tocmai în momentul în care produsul ajunge în fața unei audiențe reale, pentru că acel moment transformă activitatea didactică într-un act de comunicare autentică [3, p. 78].
+Acest moment a reprezentat finalizarea ciclului complet al unui proiect STREAM autentic: de la problemă reală (degradarea mediului) la produs public (expoziție cu audiență reală). Ionescu și Radu subliniază că metoda proiectului are valoare pedagogică maximă tocmai în momentul în care produsul ajunge în fața unei audiențe reale, pentru că acel moment transformă activitatea didactică într-un act de comunicare autentică [14, p. 78].
 
 Diplomele „Micii ecologiști", înmânate fiecărui elev la finalul expoziției, au generat reacții emoționale vizibile — mândrie, bucurie, dorința de a arăta diploma părinților. Aceste reacții au confirmat că dimensiunea emoțională a implicării a fost activată în mod real pe parcursul întregii săptămâni [1, p. 66].
 

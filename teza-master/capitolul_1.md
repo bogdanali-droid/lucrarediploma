@@ -1,9 +1,55 @@
-# Capitolul I
+# CAPITOLUL I. CADRUL TEORETIC
 
-> STATUS: Finalizat — necesită revizuire
-> Ultima actualizare: —
->
-> Copiază aici conținutul din conversațiile anterioare cu Claude.
+## 1.1. De la disciplinaritate la transdisciplinaritate — un traseu conceptual
 
----
+Cunoașterea umană a fost organizată, timp de secole, în discipline distincte: matematica, biologia, istoria, lingvistica. Această separare a facilitat aprofundarea specializată, dar a generat totodată un efect secundar problematic: fragmentarea cunoașterii într-un mozaic de compartimente etanșe, fiecare cu limbajul, metodele și criteriile ei de validare proprii. Cucoș arată că această compartimentare disciplinară, departe de a reprezenta natura realității, este o construcție culturală și academică relativ recentă, care trebuie reexaminată din perspectiva cerințelor lumii contemporane [8, p. 56].
 
+Răspunsul academic la această fragmentare a generat o întreagă ierarhie conceptuală, ale cărei trepte sunt adesea confundate în discursul pedagogic curent. Ciolan propune o hartă clară a acestei ierarhii, de la cel mai puțin la cel mai integrat [3, p. 38]:
+
+**Pluridisciplinaritatea** desemnează o temă studiată din perspectiva mai multor discipline care rămân separate și nemodificate. O lecție despre apă la care profesorul prezintă perspectiva chimică, geografică și artistică, fiecare în compartimentul ei, este pluridisciplinară — există mai multe perspective, dar nu există dialog între ele.
+
+**Interdisciplinaritatea** implică intersecții între discipline: granițele încep să se estompeze, metodele și conceptele dintr-un domeniu migrează în altul, apar produse de cunoaștere care nu aparțin nicio unei discipline în mod exclusiv. O problemă de matematică construită pe date reale din știință, a cărei rezolvare presupune și comunicare scrisă, este interdisciplinară.
+
+**Transdisciplinaritatea** reprezintă cel mai înalt grad de integrare: curriculum centrat pe viața reală, în care disciplinele se contopesc complet. Elevul nu „face matematică" sau „face română" — el rezolvă o problemă reală, mobilizând simultan toate resursele cognitive disponibile, indiferent de disciplina de origine [22, p. 67].
+
+Basarab Nicolescu, fizician teoretic român și fondatorul Centrului Internațional de Cercetare și Studii Transdisciplinare (CIRET) din Paris, a formulat teoria transdisciplinarității pe trei axiome fundamentale: Nivelurile de Realitate (realitatea există pe multiple niveluri interconectate), Logica Terțului Inclus (depășirea logicii binare printr-o stare terță care le include pe amândouă) și Complexitatea (cunoașterea este emergentă, nu liniară) [22, p. 52]. Aceste axiome nu sunt abstracțiuni filosofice: ele descriu modul în care gândesc copiii mici, care nu au interiorizat încă separarea disciplinară și care abordează realitatea în mod natural ca pe un întreg. Nicolescu însuși subliniază că educația primară este contextul privilegiat pentru cultivarea gândirii transdisciplinare, pentru că copilul sub 11 ani nu a fost încă format să gândească în compartimente [23, p. 78].
+
+Edgar Morin, filosof și sociolog francez, completează această perspectivă prin conceptul de „gândire reliante" — o gândire care stabilește conexiuni, care vede sistemul în loc de element izolat, care înțelege că întregul este mai mult decât suma părților [21, p. 34]. Critica sa la adresa sistemului de învățământ tradițional este directă: școala separă disciplinele tocmai în momentul în care ar trebui să le conecteze. Aceasta nu este o problemă metodologică, ci una epistemologică: modul în care organizăm cunoașterea transmite implicit un mesaj despre natura realității. Dacă realitatea este prezentată fragmentat, copilul va gândi fragmentat [21, p. 41].
+
+## 1.2. Modelul STREAM — componente, evoluție și relevanță pentru ciclul primar
+
+Modelul STREAM reprezintă transpunerea operațională a principiilor transdisciplinare în practica didactică cotidiană. Acronimul reunește șase domenii: **S**cience (Știință), **T**echnology (Tehnologie), **R**eading & w**R**iting (Citire și Scriere), **E**ngineering (Inginerie/Design), **A**rts (Arte), **M**athematics (Matematică). Important este că aceste domenii nu sunt tratate ca discipline separate care se studiază succesiv, ci ca perspective complementare care converg simultan asupra aceleiași probleme reale [38, p. 14].
+
+Evoluția acronimului urmează o logică internă. STEM (Science, Technology, Engineering, Mathematics) a apărut în SUA la sfârșitul anilor '90, ca răspuns la nevoia de forță de muncă calificată în domenii tehnice. Yakman (2008) a propus adăugarea componentei artistice (STEAM), argumentând că fără creativitate și gândire vizuală, componentele tehnice nu pot genera inovație reală [38, p. 16]. Pasul următor — adăugarea literației (STREAM) — a apărut în jurul anilor 2013-2015, când educatori americani și cercetători au observat că citirea și scrierea nu sunt discipline alăturate celorlalte, ci instrumente transversale fără de care elevii nu pot accesa complet niciuna dintre celelalte componente: nu pot citi o problemă, nu pot redacta un raport de experiment, nu pot interpreta un text informativ [43, p. 29].
+
+Cea mai amplă analiză sistematică a literaturii STREAM aparține lui Sun și Zhong (2024), care au analizat 127 de studii publicate între 2015 și 2023. Concluzia lor principală confirmă că STREAM s-a dovedit eficient în stimularea motivației și a implicării la toate nivelurile școlare, cu rezultate deosebit de puternice la nivelul primar, unde integrarea este mai ușor de realizat [30, p. 941].
+
+**De ce ciclul primar este contextul optim pentru STREAM?** Răspunsul este multiplu:
+
+*Din perspectivă organizatorică:* un singur cadru didactic predă toate disciplinele la clasele I-IV, ceea ce elimină principalul obstacol al implementării STREAM la nivelurile superioare — fragmentarea orarului pe profesori de specialitate [3, p. 48].
+
+*Din perspectivă psihologică:* elevii cu vârste de 6-11 ani se află, conform stadializării lui Piaget, în stadiul operațiilor concrete — ei gândesc prin manipulare și prin experiență directă, nu prin abstracție [25, p. 72]. Activitățile STREAM, prin natura lor practică și experimentală, se aliniază perfect acestui stadiu.
+
+*Din perspectivă curriculară:* planul-cadru pentru învățământul primar permite explicit abordarea interdisciplinară și integrată, iar disciplinele MEM și AVAP sunt deja integrate prin natura lor [18; 19].
+
+Fundația EOS România a documentat în 2022 primul cadru de educație STE(A)M pentru profesori din România, confirmând că interesul pentru aceste abordări este în creștere și că există resurse naționale care pot susține implementarea [11].
+
+## 1.3. Motivația și implicarea elevilor — fundamente psihopedagogice
+
+Înțelegerea motivației elevilor reprezintă fundamentul oricărei pedagogii eficiente. Viau arată că motivația școlară nu este o trăsătură fixă a elevului, ci o stare dinamică, influențată de natura sarcinii, de percepția propriei competențe și de relația cu profesorul și colegii [36, p. 12]. Această perspectivă dinamică este esențială: nu există elevi „fără motivație", ci activități care nu activează motivația pe care o au.
+
+**Teoria Autodeterminării** (Self-Determination Theory), elaborată de Deci și Ryan, identifică trei nevoi psihologice de bază a căror satisfacere generează motivație intrinsecă: **autonomia** (sentimentul că acțiunile proprii sunt autoalese, nu impuse), **competența** (sentimentul că ești capabil, că progresezi) și **relatednesss-ul** (apartenența la un grup, sentimentul că ești văzut și valorizat) [10]. Activitățile STREAM, prin structura lor — alegere parțială a instrumentelor, roluri diferențiate în grup, produse publice valorizate de o audiență reală — creează condiții naturale pentru satisfacerea simultană a acestor trei nevoi.
+
+Bruner a arătat că învățarea prin descoperire — în care elevul construiește activ cunoașterea prin explorare, nu prin recepție pasivă — generează o formă de motivație mai profundă și mai durabilă decât instruirea expozitivă [1, p. 44]. Structura activităților STREAM respectă exact acest principiu: elevii nu primesc răspunsuri, ci sarcini care îi pun în situația de a descoperi.
+
+Vygotsky a identificat **Zona Proximei Dezvoltări** (ZPD) — distanța dintre ce poate face copilul singur și ce poate face cu ajutor — ca spațiul optim al învățării eficiente [37, p. 86]. Activitățile de grup din structura STREAM plasează elevii în ZPD în mod natural: colaborarea cu un coleg care are abilități complementare creează exact tipul de scaffolding descris de Vygotsky.
+
+**Implicarea autentică a elevilor** — concept central al acestei lucrări — este definită în literatura de specialitate ca un construct tridimensional: cognitivă (efort mental, conexiuni, întrebări), comportamentală (participare, persistență, colaborare) și emoțională (interes, plăcere, mândrie față de produsele proprii) [7, p. 148]. Cuciureanu arată că aceste trei dimensiuni se influențează reciproc și nu pot fi separate în practică: un elev emoțional implicat tinde să depună efort cognitiv și să participe comportamental [7, p. 152]. Abordările tradiționale, axate pe evaluare sumativă și pe produse destinate exclusiv profesorului, activează în mod preponderent dimensiunea comportamentală (elev prezent, elev care completează fișa), neglijând celelalte două.
+
+Teoria Inteligențelor Multiple propusă de Gardner identifică opt forme de inteligență — verbal-lingvistică, logico-matematică, vizual-spațială, corporal-kinestezică, muzicală, interpersonală, intrapersonală și naturalistă — și argumentează că evaluarea tradițională, axată pe primele două, lasă invizibilă inteligența majorității elevilor din orice clasă [12, p. 73]. Modelul STREAM, prin diversitatea activităților pe care le generează, oferă spațiu de valorizare tuturor formelor de inteligență identificate de Gardner.
+
+Diferențierea instruirii, descrisă de Tomlinson ca principiu fundamental al pedagogiei moderne, presupune adaptarea conținutului, procesului, produsului și mediului de învățare la nevoile individuale ale fiecărui elev [32, p. 16]. Abordarea STREAM creează condiții naturale pentru diferențiere: structura deschisă a sarcinilor permite fiecărui elev să contribuie conform profilului său, fără ca diferențierea să fie vizibilă sau stigmatizantă.
+
+Kolb a descris ciclul învățării experiențiale în patru etape: experiență concretă — reflecție — conceptualizare — experimentare activă [16, p. 27]. Activitățile STREAM respectă acest ciclu: elevii trăiesc experiența (experimentul, construcția), reflectează (jurnalul, discuția), conceptualizează (formularea concluziilor) și aplică din nou (activitatea digitală acasă, proiectul următor). Această structură transformă fiecare activitate din ciclul primar într-un ciclu complet de învățare.
+
+Sinteza acestor perspective teoretice convergente justifică premisa fundamentală a prezentei lucrări: abordarea integrată de tip STREAM, aplicată la ciclul primar prin activități ancorate în probleme reale, cu produse tangibile și audiență autentică, creează condițiile optime pentru motivație intrinsecă și implicare autentică. Capitolele următoare documentează modul concret în care această teorie s-a transpus în practică.

@@ -1,9 +1,24 @@
-# Introducere
+# INTRODUCERE
 
-> STATUS: Finalizată — necesită revizuire
-> Ultima actualizare: —
-> 
-> Copiază aici conținutul din conversațiile anterioare cu Claude.
+Școala primară se află astăzi la intersecția a două presiuni contradictorii: pe de o parte, cerința socială de a forma elevi capabili să gândească transdisciplinar, să rezolve probleme reale și să comunice eficient într-o lume digitalizată; pe de altă parte, structura tradițională a curriculumului, organizat pe discipline separate, cu grile de evaluare care recompensează reproducerea cunoașterii, nu construcția ei. Această tensiune nu este nouă, dar devine tot mai greu de ignorat pe măsură ce decalajul dintre abilitățile cerute de viața reală și cele formate în clasele obișnuite se adâncește [8, p. 13].
 
----
+Actualitatea temei rezidă tocmai în această tensiune. Modelul STREAM — acronim pentru Science, Technology, Reading & wRiting, Engineering, Arts, Mathematics — oferă un răspuns practic: nu o reformă a curriculumului, ci o modalitate de organizare a activităților didactice care permite predarea integrată, ancorată în probleme reale, cu produse concrete și cu audiență autentică. Apărut în spațiul academic internațional în jurul anilor 2013-2015, STREAM s-a construit pe fundamentul STEM și STEAM, adăugând componenta de literație — citire și scriere — ca instrument transversal fără de care celelalte componente nu pot fi pe deplin accesate [30, p. 940].
 
+În contextul românesc, interesul pentru abordările integrate a crescut vizibil după adoptarea Legii nr. 198/2023 a învățământului preuniversitar, care stabilește opt competențe-cheie ca repere ale curriculumului național și include explicit principiul interdisciplinarității ca valoare a sistemului [17]. Planul-cadru pentru învățământul primar permite organizarea activităților în jurul unor teme transversale, iar la clasele CP-II, disciplinele „Matematică și Explorarea Mediului" și „Arte Vizuale și Abilități Practice" sunt deja integrate prin natura lor [18]. Ciolan arată că tocmai ciclul primar reprezintă contextul optim pentru aplicarea abordării transdisciplinare, deoarece un singur cadru didactic predă toate disciplinele, eliminând barierele organizatorice care împiedică integrarea la nivelurile superioare [3, p. 45].
+
+**Scopul lucrării** este de a documenta și analiza modul în care abordarea didactică integrată de tip STREAM, îmbinată cu valorificarea instrumentelor digitale în activitatea independentă a elevilor, stimulează motivația intrinsecă și implicarea autentică a elevilor din ciclul primar.
+
+**Obiectivele cercetării** sunt:
+1. Fundamentarea teoretică a conceptelor de inter-, pluri- și transdisciplinaritate și descrierea modelului STREAM în relație cu acestea.
+2. Proiectarea și descrierea unor activități integrate de tip STREAM desfășurate la o clasă a III-a, pe parcursul unei săptămâni.
+3. Analiza implicării elevilor pe trei dimensiuni — cognitivă, comportamentală și emoțională — pe baza observației sistematice, a jurnalelor reflexive și a produselor realizate.
+4. Identificarea profilurilor diferențiate de implicare și a obstacolelor întâmpinate în practica reală.
+5. Formularea unor concluzii și recomandări transferabile pentru cadrele didactice din ciclul primar.
+
+**Ipoteza cercetării:** aplicarea unor activități didactice integrate de tip STREAM, care îmbină abordarea tradițională la clasă cu valorificarea instrumentelor digitale în activitatea independentă, stimulează motivația intrinsecă și implicarea autentică a elevilor de vârstă școlară mică, indiferent de profilul lor de învățare.
+
+**Noutatea științifică** a lucrării rezidă în combinarea mai multor dimensiuni relativ noi în literatura pedagogică românească: aplicarea modelului STREAM — mai puțin studiat decât STEM sau STEAM în România — la nivelul ciclului primar; structura hibridă a activităților, care îmbină lucrul față-în-față cu activitatea digitală independentă; documentarea diferențiată a profilurilor de implicare, nu doar a rezultatelor academice. Cercetări internaționale recente (Sun & Zhong, 2024; Springer Nature, 2023) confirmă că STREAM aplicat la nivelul primar este un domeniu în expansiune, cu rezultate promițătoare dar insuficient documentate în context european și cu atât mai puțin în cel românesc [29; 30].
+
+**Metodologia cercetării** este calitativă, cu elemente de cercetare-acțiune. Autoarea lucrării a proiectat, aplicat și documentat un ciclu de activități integrate cu o clasă a III-a de 22 de elevi, cu vârste de 9-10 ani. Instrumentele de cercetare utilizate au fost: observația pedagogică sistematică, jurnalele reflexive ale elevilor, analiza produselor activității, documentarea fotografică și discuțiile informale cu părinții. Această paradigmă a fost aleasă deoarece motivația și implicarea elevilor sunt fenomene dependente de context, care nu pot fi surprinse în profunzime prin instrumente cantitative [9, p. 112].
+
+**Structura lucrării** urmărește logica unui demers de cercetare-acțiune. Capitolul I stabilește cadrul teoretic: conceptele de inter-, pluri- și transdisciplinaritate, evoluția modelelor STEM-STEAM-STREAM și fundamentele psihopedagogice ale motivației și implicării la vârsta școlară mică. Capitolul II descrie metodologia cercetării și activitățile integrate desfășurate la clasă, prezentate pe fiecare zi. Capitolul III analizează rezultatele pe dimensiunile cognitivă, comportamentală și emoțională ale implicării, identifică profiluri diferențiate și obstacole întâmpinate. Concluziile sintetizează contribuțiile lucrării și formulează recomandări practice.

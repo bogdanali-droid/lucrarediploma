@@ -29,19 +29,19 @@ Din cei 22 de elevi, 19 au participat activ la toate activitățile celor cinci 
 
 **Persistența în fața dificultăților**
 
-Experimentul de filtrare a apei (Ziua 2) a generat cel mai clar exemplu de persistență comportamentală. Două grupe din cinci nu au obținut rezultate satisfăcătoare la prima încercare: filtrul lor nu curăța apa suficient. În loc să abandoneze, ambele grupe au analizat ce a mers greșit, au ajustat proporțiile materialelor și au repetat experimentul. Această secvență — eșec, analiză, ajustare, re-testare — este exact ciclul engineering din modelul STREAM și corespunde structurii gândirii critice descrise de Ionescu și Radu [3, p. 82].
+Experimentul de filtrare a apei (Ziua 2) a generat cel mai clar exemplu de persistență comportamentală. Două grupe din cinci nu au obținut rezultate satisfăcătoare la prima încercare: filtrul lor nu curăța apa suficient. În loc să abandoneze, ambele grupe au analizat ce a mers greșit, au ajustat proporțiile materialelor și au repetat experimentul. Această secvență — eșec, analiză, ajustare, re-testare — este exact ciclul engineering din modelul STREAM și corespunde structurii gândirii critice descrise de Ionescu și Radu [14, p. 82].
 
 **Calitatea colaborării**
 
 Lucrul în echipă a generat dinamici diverse, nu toate pozitive. În Ziua 1, o echipă a intrat în conflict privind designul posterului: doi elevi voiau abordări vizuale complet diferite. Conflictul a fost rezolvat prin negociere — fiecare a primit o secțiune a posterului în care să lucreze conform viziunii proprii. Produsul final a fost cel mai bogat vizual din clasă, tocmai datorită diversității de stiluri.
 
-Această observație confirmă că conflictul productiv în grup, gestionat adecvat, poate genera produse de calitate superioară față de consensul facil. Cucoș subliniază că rolul profesorului în gestionarea dinamicilor de grup este decisiv: nu de a elimina conflictele, ci de a le transforma în resurse pentru învățare [1, p. 72].
+Această observație confirmă că conflictul productiv în grup, gestionat adecvat, poate genera produse de calitate superioară față de consensul facil. Cucoș subliniază că rolul profesorului în gestionarea dinamicilor de grup este decisiv: nu de a elimina conflictele, ci de a le transforma în resurse pentru învățare [8, p. 72].
 
 [FOTO — Elevi lucrând în echipă la posterele ecologice]
 
 ## 3.3. Implicarea emoțională — cum s-au simțit elevii
 
-Dimensiunea emoțională a implicării este cea mai greu de observat și cuantificat, dar și cea care produce efecte pe termen lung asupra atitudinii față de școală și față de învățare. Cucoș arată că climatul afectiv pozitiv este o condiție de bază pentru implicarea emoțională autentică [1, p. 74].
+Dimensiunea emoțională a implicării este cea mai greu de observat și cuantificat, dar și cea care produce efecte pe termen lung asupra atitudinii față de școală și față de învățare. Cucoș arată că climatul afectiv pozitiv este o condiție de bază pentru implicarea emoțională autentică [8, p. 74].
 
 **Mândria față de produsele proprii**
 
@@ -49,11 +49,11 @@ Momentul expoziției din Ziua 5 a generat cele mai clare indicatoare ale implic�
 
 **Surprinderea și curiozitatea**
 
-Experimentul de filtrare a apei a generat reacții de surpriză autentică la mai mulți elevi: „Nu credeam că nisipul poate curăța apa!" Această surpriză este, conform teoriei constructiviste a lui Piaget, semnalul unui conflict cognitiv — un moment în care realitatea observată contrazice modelul mental existent, declanșând restructurarea lui [8, p. 44]. Conflictele cognitive produse de activitățile STREAM au fost mai frecvente și mai intense decât în activitățile tradiționale, ceea ce sugerează o stimulare mai profundă a proceselor de înțelegere.
+Experimentul de filtrare a apei a generat reacții de surpriză autentică la mai mulți elevi: „Nu credeam că nisipul poate curăța apa!" Această surpriză este, conform teoriei constructiviste a lui Piaget, semnalul unui conflict cognitiv — un moment în care realitatea observată contrazice modelul mental existent, declanșând restructurarea lui [25, p. 44]. Conflictele cognitive produse de activitățile STREAM au fost mai frecvente și mai intense decât în activitățile tradiționale, ceea ce sugerează o stimulare mai profundă a proceselor de înțelegere.
 
 **Identificarea personală cu temele abordate**
 
-Compunerile din Ziua 5 au relevat un nivel semnificativ de identificare personală cu temele ecologice: mai mult de jumătate dintre elevi au inclus referiri la experiențe proprii (excursii în natură, vizite la bunici la țară, observații din cartierul lor). Această ancorare în experiența personală este exact ce Ciolan numește „centrarea pe viața reală" — condiția esențială a abordării transdisciplinare [4, p. 56].
+Compunerile din Ziua 5 au relevat un nivel semnificativ de identificare personală cu temele ecologice: mai mult de jumătate dintre elevi au inclus referiri la experiențe proprii (excursii în natură, vizite la bunici la țară, observații din cartierul lor). Această ancorare în experiența personală este exact ce Ciolan numește „centrarea pe viața reală" — condiția esențială a abordării transdisciplinare [3, p. 56].
 
 **Fragmentele din jurnalele reflexive**
 
@@ -81,7 +81,7 @@ Un rezultat semnificativ al cercetării este identificarea unor profiluri distin
 
 **Profilul organizatoric** — câțiva elevi mai puțin vizibili în activitățile creative sau experimentale s-au remarcat prin capacitatea de a organiza munca echipei, de a distribui sarcinile și de a ține evidența progresului. Rolul de „manager de proiect" informal le-a oferit o formă de implicare autentică, nevizibilă în evaluarea tradițională.
 
-Aceste patru profiluri nu sunt exclusive și nu toți elevii se încadrează net într-unul singur. Ele ilustrează însă că un proiect STREAM autentic creează spațiu pentru forme diverse de excelență, ceea ce corespunde Teoriei Inteligențelor Multiple a lui Gardner [8, p. 51].
+Aceste patru profiluri nu sunt exclusive și nu toți elevii se încadrează net într-unul singur. Ele ilustrează însă că un proiect STREAM autentic creează spațiu pentru forme diverse de excelență, ceea ce corespunde Teoriei Inteligențelor Multiple a lui Gardner [12, p. 51].
 
 ## 3.5. Obstacole întâmpinate și soluții găsite
 
@@ -91,7 +91,7 @@ Orice demers pedagogic real întâmpină obstacole. Documentarea lor onestă fac
 Trei elevi nu aveau acasă acces la un dispozitiv adecvat pentru activitățile digitale propuse. Soluția: acești elevi au realizat activitățile digitale la școală, în pauze sau după ore, folosind tableta clasei. Alternativ, li s-a permis să realizeze versiuni analogice (desene, texte scrise de mână) ale acelorași produse. Ambele variante au fost acceptate și valorizate egal în expoziție.
 
 **Obstacol 2: Gestionarea timpului în activitățile de grup**
-Activitățile de grup au depășit în mod regulat timpul alocat: elevii erau implicați și nu voiau să se oprească. Această depășire, deși problematică din perspectiva orarului, este un indicator pozitiv al implicării. Soluția practică: activitățile au fost structurate în etape cu timp alocat explicit, iar elevii au primit rolul de „cronometriști" care monitorizau respectarea timpului — un exercițiu de responsabilizare cu efect pozitiv [1, p. 77].
+Activitățile de grup au depășit în mod regulat timpul alocat: elevii erau implicați și nu voiau să se oprească. Această depășire, deși problematică din perspectiva orarului, este un indicator pozitiv al implicării. Soluția practică: activitățile au fost structurate în etape cu timp alocat explicit, iar elevii au primit rolul de „cronometriști" care monitorizau respectarea timpului — un exercițiu de responsabilizare cu efect pozitiv [8, p. 77].
 
 **Obstacol 3: Diferențele de ritm între elevi**
 Unii elevi terminau sarcinile rapid și se plictiseau așteptând, alții nu terminau în timp util. Soluția: fiecare sarcină a inclus o variantă de extensie (o întrebare suplimentară, un desen adițional, o cercetare opțională) pentru elevii rapizi, și o variantă simplificată pentru cei care aveau nevoie de mai mult timp.
