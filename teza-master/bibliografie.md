@@ -1,8 +1,7 @@
 # Bibliografie
 
-> STATUS: În lucru — bază finalizată, necesită completare la 30 surse
+> STATUS: În lucru — 12 surse confirmate, target 30+
 > Ultima actualizare: 2026-04-09
-> CERINȚĂ: minimum 30 surse (îndrumătoare)
 
 ---
 
@@ -20,14 +19,14 @@
 
 ## Autori internaționali
 
-10. Deci, E.L. și Ryan, R.M., *Self-Determination Theory and the Facilitation of Intrinsic Motivation*, American Psychologist, 2000
-11. Sun, W. și Zhong, B., *Integrating reading and writing with STEAM/STEM: A systematic review on STREAM education*, Journal of Engineering Education, 2023
+10. Deci, E.L. și Ryan, R.M., Self-Determination Theory and the Facilitation of Intrinsic Motivation, *American Psychologist*, 2000
+11. Sun, W. și Zhong, B., Integrating reading and writing with STEAM/STEM: A systematic review on STREAM education, *Journal of Engineering Education*, 2023
 
 ## Autori români pe STREAM
 
-12. Șuteu, L., Cristea, M., Magdaș, I. și Ciascai, L., *Investigating the relationship between metacognition and STREAM education in science*, Romanian Journal for Multidimensional Education, 2024
+12. Șuteu, L., Cristea, M., Magdaș, I. și Ciascai, L., Investigating the relationship between metacognition and STREAM education in science, *Romanian Journal for Multidimensional Education*, 2024
 
 ---
 
-> NOTE: Necesită adăugarea a cel puțin 18 surse suplimentare pentru a atinge minimul de 30.
-> Prioritate: surse moderne și recente (ultimii 10 ani).
+> Note: Mai sunt necesare min. 18 surse pentru a ajunge la 30+.
+> Se completează pe parcursul redactării capitolelor II și III.
