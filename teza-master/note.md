@@ -101,3 +101,136 @@ Ursul Polar este considerat o specie vulnerabilă din cauza topirii gheții arct
 - „Arcul Timpului: Căi peste Lumi" este titlul proiectului care acoperă toate activitățile de mai sus?
 - Au existat și activități digitale (Canva, PPT, CapCut) — ce anume s-a produs?
 
+
+---
+
+## PROIECTUL COMPLET: Săptămâna Verde
+
+**Structură:** 5 zile, 10 activități, organizate pe culori tematice
+**Scop general:** Promovarea unei atitudini active și responsabile față de mediu prin activități interdisciplinare și practice.
+**Model hibrid:** Tradițional la școală (perechi/grupe) + Modern acasă (Word/Canva/PPT/CapCut — fiecare elev pe aplicația preferată)
+
+---
+
+### LUNI — Verde: Natura, pădurile, echilibrul
+**Mesaj:** „Îngrijim ceea ce ne dă viață"
+
+**Activitatea 1: Pădurea prietenă**
+Scop: conștientizarea rolului pădurilor în menținerea echilibrului ecologic.
+Competențe: exprimarea ideilor despre natură; argumentarea rolului pădurii; colaborarea în echipă.
+Desfășurare:
+1. Conversație dirijată: „De ce este pădurea importantă pentru noi?"
+2. Prezentarea materialului video „Respiră pădurea!"
+3. Realizarea unui poster colectiv cu titlul „Pădurea prietenă"
+4. Discuție de concluzie: Ce pot face eu pentru pădure?
+Materiale: cartoane verzi, markere, imagini cu păduri, proiector.
+Evaluare: implicare în discuții, originalitatea ideilor.
+
+**Activitatea 2: Proiectăm un parc ideal**
+Scop: dezvoltarea spiritului de colaborare și a creativității.
+Desfășurare:
+1. Formarea echipelor de lucru
+2. Planificarea elementelor unui parc ecologic (bănci solare, piste de biciclete, spații verzi, locuri de reciclare)
+3. Realizarea desenului sau machetei
+4. Prezentarea lucrării și argumentarea alegerilor
+Materiale: hârtie A3, culori, lipici, materiale reciclabile.
+Reflecție: „Cum ar arăta orașul meu dacă ar fi plin de parcuri?"
+
+---
+
+### MARȚI — Albastru: Apa curată și cerul senin
+**Mesaj:** „Protejăm fiecare strop"
+
+**Activitatea 1: Apa – comoara planetei**
+Scop: evidențierea importanței apei și înțelegerea procesului de purificare.
+Competențe: observarea fenomenelor naturale; utilizarea metodelor experimentale; exprimarea concluziilor.
+Desfășurare:
+1. Discuție introductivă: „Ce rol are apa în viața noastră?"
+2. Experiment: filtrarea apei murdare cu nisip, vată și bumbac
+3. Analiza rezultatului: „Ce am observat?"
+4. Concluzie: Fiecare strop contează!
+Materiale: sticle, filtre din materiale naturale, nisip, apă colorată.
+Evaluare: observarea implicării și a gândirii logice.
+
+**Activitatea 2: Slogan pentru o planetă curată**
+Scop: dezvoltarea creativității și a atitudinii civice față de mediu.
+Desfășurare:
+1. Discuție: Ce înseamnă o planetă curată?
+2. Brainstorming — sloganuri propuse de elevi: „Salvează apa!", „Fiecare picătură înseamnă viață!"
+3. Realizarea afișelor ecologice colorate
+4. Expoziție în clasă și în holul școlii
+Reflecție: „Cum putem transforma vorbele în fapte?"
+
+---
+
+### MIERCURI — Galben: Energia regenerabilă, soarele, optimismul
+**Mesaj:** „Folosim energia luminii, nu pe cea care poluează"
+
+**Activitatea 1: Energie din natură**
+Scop: înțelegerea diferenței dintre energia regenerabilă și cea poluantă.
+Competențe: analiză comparativă; exprimarea concluziilor proprii; gândire critică.
+Desfășurare:
+1. Vizionarea unui film educativ despre energia solară și eoliană
+2. Discuție: Ce surse de energie folosim acasă?
+3. Completarea fișei „Surse curate vs. surse poluante"
+4. Realizarea unei machete sau desene cu panouri solare
+Materiale: proiector, fișe, cartoane galbene.
+
+**Activitatea 2: Campania „Lumina bună"**
+Scop: formarea comportamentelor responsabile privind consumul de energie.
+Desfășurare:
+1. Brainstorming: „Cum putem economisi energia electrică?"
+2. Crearea de afișe: „Stinge becul!", „Deschide ferestrele ziua!", „Folosește soarele!"
+3. Afișarea materialelor în clasă și coridor
+Reflecție: „De ce este energia curată o alegere înțeleaptă?"
+
+---
+
+### JOI — Maro: Pământul, solul, resursele naturale
+**Mesaj:** „Păstrăm pământul roditor"
+
+**Activitatea 1: Grija pentru pământ**
+Scop: conștientizarea legăturii dintre calitatea solului și sănătatea oamenilor.
+Desfășurare:
+1. Vizionarea unui film documentar: Solul – comoara ascunsă
+2. Discuție: „Ce se întâmplă dacă poluăm pământul?"
+3. Realizarea unui poster cu titlul „Grija pentru pământ"
+Materiale: imagini, cartoane maro, markere.
+
+**Activitatea 2: Micii ecologiști**
+Scop: aplicarea comportamentului ecologic în situații practice.
+Desfășurare:
+1. Sortarea deșeurilor din clasă: hârtie, plastic, metal
+2. Concurs: Cine reciclează corect?
+3. Poster „Reciclează azi pentru ziua de mâine!"
+Reflecție: „Ce pot face eu pentru ca pământul să rămână curat?"
+
+---
+
+### VINERI — Alb: Aerul curat, pacea, puritatea
+**Mesaj:** „Respirăm curat, trăim curat"
+
+**Activitatea 1: Planeta mea, casa mea**
+Scop: formarea conștiinței ecologice prin exprimare scrisă și orală.
+Competențe: exprimare scrisă coerentă; asumarea de responsabilități; gândire reflexivă.
+Desfășurare:
+1. Discuție introductivă: „Cum se simte planeta noastră?"
+2. Redactarea unei compuneri: Ce pot face eu pentru un aer curat?
+3. Prezentarea compunerilor în fața clasei
+Evaluare: coerența și claritatea exprimării, mesajul personal.
+
+**Activitatea 2: Expoziția verde**
+Scop: celebrarea finalului de săptămână prin expunerea lucrărilor.
+Desfășurare:
+1. Amenajarea expoziției cu afișe, desene și fotografii
+2. Invitarea altor clase pentru vizitare
+3. Acordarea diplomelor „Micii ecologiști"
+4. Reflecție colectivă: „Ce am învățat în Săptămâna Verde?"
+
+---
+
+## Componenta digitală (acasă)
+Fiecare elev a ales aplicația preferată (Word, Canva, PPT, CapCut) pentru a continua/prezenta proiectul digital.
+Principiu: autonomia alegerii aplicației — fiecare elev a lucrat cu instrumentul în care se simțea sigur.
+Efect observat: copiii au fost încântați că au lucrat în echipă, s-au simțit utili.
+
