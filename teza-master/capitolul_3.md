@@ -114,3 +114,90 @@ Analiza celor cinci zile de activități integrate permite formularea unor concl
 **Concluzia 5:** Aplicarea modelului STREAM nu necesită resurse speciale sau infrastructură dedicată. Activitățile descrise au fost realizate cu materiale obișnuite, disponibile în orice clasă, și cu instrumente digitale gratuite accesibile majorității familiilor. Aceasta confirmă că modelul este replicabil în condițiile standard ale școlii românești [11].
 
 Aceste concluzii sunt prezentate detaliat și argumentate în capitolul următor al lucrării, alături de recomandările adresate cadrelor didactice interesate de abordări similare.
+
+## 3.7. Analiza limbajului și a comunicării în activitățile STREAM
+
+Un rezultat neașteptat al cercetării, dar consistent pe parcursul celor cinci zile, a fost îmbogățirea vizibilă a limbajului utilizat de elevi — atât în comunicarea orală, cât și în textele scrise. Această evoluție a limbajului este relevantă din perspectiva componentei R din modelul STREAM și confirmă că literația nu se dezvoltă izolat, ci în interacțiune cu experiența cognitivă și emoțională.
+
+**Vocabularul specializat** a crescut semnificativ pe parcursul săptămânii. Termeni precum fotosinteza, biodiversitate, filtrare, energie regenerabilă, microorganisme sau compostare au apărut în vorbirea și în scrisul elevilor nu ca urmare a unor lecții de vocabular, ci ca instrumente de exprimare a unor cunoștințe dobândite prin experiență directă. Cerghit arată că vocabularul dobândit în context de utilizare autentică este mai durabil și mai transferabil decât cel memorat din definiții [2, p. 112].
+
+**Structura argumentativă** a textelor scrise a evoluat pe parcursul săptămânii. Compunerile din Ziua 1 aveau, în general, o structură simplă: enumerare de idei fără conexiuni explicite. Compunerile din Ziua 5 demonstrau o structură mai elaborată: problemă identificată → cauze analizate → soluții propuse → angajament personal. Această evoluție nu a fost cerută explicit — ea a apărut ca efect al imersiunii în probleme reale care au o logică cauzală intrinsecă.
+
+**Metacomunicarea** — capacitatea de a vorbi despre propria comunicare — a apărut spontan în mai multe momente. La expoziție, când un elev a explicat vizitatorilor cum a ales titlul posterului său și de ce, a realizat un act de metacomunicare: a reflectat asupra procesului de construcție a unui mesaj, nu doar asupra conținutului. Jinga și Istrate numesc această capacitate „conștiință comunicativă" și o identifică ca o competență transversală fundamentală [41, p. 187].
+
+O analiză a jurnalelor reflexive din punct de vedere lingvistic relevă trei niveluri distincte de elaborare, corespunzând profilurilor de implicare identificate:
+
+**Nivelul descriptiv** (prezent la circa o treime din elevi): jurnalul înregistrează ce s-a întâmplat, fără analiză sau evaluare. Exemplu: „Azi am facut un filtru de apa cu nisip si vata. A mers."
+
+**Nivelul evaluativ** (prezent la circa jumătate din elevi): jurnalul include judecăți de valoare și reacții personale. Exemplu: „Experimentul mi s-a parut greu la inceput dar dupa ce am incercat de doua ori a functionat. Am fost surprins ca nisipul poate sa curete apa."
+
+**Nivelul reflexiv** (prezent la circa un sfert din elevi): jurnalul include conexiuni cu experiența personală, cu alte cunoștințe sau cu implicații mai largi. Exemplu: „Nu credeam ca apa poate fi atat de rara. Acum ma gandesc ca la noi acasa lasam robinetul deschis cand ne spalam pe dinti si asta e o risipa mare. O sa le spun parintilor mei."
+
+Această distribuție este consistentă cu cercetările privind dezvoltarea metacognitivă la vârsta școlară mică: reflecția profundă este un obicei care se formează progresiv și necesită practică sistematică [9, p. 134]. Jurnalul reflexiv, utilizat zilnic pe parcursul săptămânii, a furnizat această practică și a generat o evoluție vizibilă a profunzimii reflecției de la prima la ultima zi.
+
+## 3.8. Analiza componentei digitale — rezultatele activităților independente
+
+Structura hibridă a activităților — tradițional la clasă, digital acasă — a generat o a doua categorie distinctă de produse și de observații, care merită analizată separat. Produsele digitale realizate acasă de elevi au variat semnificativ în formă, dar au demonstrat în mod consistent un nivel de implicare și de creativitate superior față de temele tradiționale scrise.
+
+Din cei 22 de elevi, 19 au realizat și predat produse digitale pentru cel puțin patru din cele cinci activități propuse. Trei elevi nu au putut realiza activitățile digitale acasă din cauza lipsei unui dispozitiv adecvat — aceștia au primit alternative analogice și au utilizat tableta clasei în pauze. Niciun elev nu a refuzat explicit să realizeze activitățile digitale; cei care nu le-au predat au invocat motive practice, nu de rezistență față de sarcină.
+
+**Tipologia produselor digitale realizate:**
+
+| Ziua | Sarcina digitală | Tipuri de produse predate | Instrumente folosite |
+|---|---|---|---|
+| Ziua 1 | Prezentare „Animalul meu preferat din pădure" | PPT, Canva, Word cu imagini | PPT (12 elevi), Canva (5), Word (2) |
+| Ziua 2 | Poster „Apa, resursă limitată!" | Canva, Word, PPT | Canva (11), Word (4), PPT (4) |
+| Ziua 3 | Clip video sau afiș „De ce aleg energia curată" | CapCut, Canva, PPT | CapCut (8), Canva (6), PPT (5) |
+| Ziua 4 | Proiect „Drumul alimentului de la pământ la masă" | PPT, Word, Canva | PPT (10), Word (5), Canva (4) |
+| Ziua 5 | Clip video „3 lucruri pe care le fac pentru aer curat" | CapCut, prezentare verbală | CapCut (9), prezentare orală (10) |
+
+Diversitatea instrumentelor utilizate reflectă diversitatea profilurilor elevilor și confirmă că libertatea de a alege instrumentul — condiție deliberat inclusă în designul activităților — a generat produse mai autentice decât ar fi generat o sarcină cu instrument impus. Deci și Ryan identifică tocmai această libertate de alegere ca un factor cheie al autonomiei percepute, care susține motivația intrinsecă [10].
+
+Clipurile video realizate în Ziua 3 și Ziua 5 au produs cele mai vii reacții la prezentarea din săptămâna următoare. Opt clipuri video au fost prezentate voluntar în fața clasei, generând discuții autentice și un moment neplanificat de feedback pozitiv între elevi. Câteva clipuri au inclus membri ai familiei — părinți sau bunici care explicau cum economisesc energia sau cum cultivă grădina — o extensie spontană a temei dincolo de granițele școlii, care ilustrează ce înseamnă implicarea autentică: elevul continuă să exploreze tema în afara contextului formal de învățare [1, p. 57].
+
+**Feedback-ul informal al părinților**, colectat în discuțiile din cadrul ședințelor și prin mesaje individuale, a confirmat că activitățile digitale au generat conversații autentice în familie. Mai mult de jumătate dintre părinți au menționat că copiii lor le-au explicat acasă ce au făcut la școală — un indicator indirect, dar semnificativ, al implicării cognitive: elevul care poate explica altcuiva ceea ce a învățat și-a integrat cunoașterea la un nivel superior simplinei memorări [37, p. 91].
+
+## 3.9. Comparație între abordarea STREAM și activitățile tradiționale
+
+Una dintre cele mai valoroase surse de date pentru evaluarea eficienței abordării STREAM este comparația directă cu comportamentul acelorași elevi în activitățile tradiționale. Deoarece cercetătoarea este totodată cadrul didactic al clasei, această comparație se bazează pe observații longitudinale și pe cunoașterea aprofundată a fiecărui elev.
+
+**Nivelul de participare verbală** a fost vizibil mai ridicat în activitățile STREAM față de lecțiile tradiționale. În mod obișnuit, la lecțiile frontale, aproximativ 8-10 elevi participă activ la discuție, în timp ce restul rămân în postura de observatori pasivi. Pe parcursul activităților STREAM, toți cei 22 de elevi au participat verbal în cel puțin o etapă a fiecărei activități — fie în discuția de grup, fie în prezentarea produsului, fie în conversația informală pe parcursul lucrului în echipă. Această diferență este explicată de Cerghit prin natura structurii de participare: activitățile frontale creează un singur canal de comunicare (profesor-elev), în timp ce activitățile de grup multiplică canalele și reduc presiunea individuală a participării [2, p. 178].
+
+**Calitatea produselor scrise** a variat semnificativ în funcție de contextul de scriere. Compunerile pe teme standardizate din activitățile tradiționale, destinate exclusiv evaluării de către profesor, au generat texte corecte dar formale, lipsite de voce personală. Compunerile din Ziua 5 — „Ce pot face eu pentru un aer curat?" — scrise fără notare și fără corectare gramaticală, au produs texte cu o autenticitate remarcabilă: referiri la experiențe personale, metafore spontane, tonalitate emoțională vizibilă. Această diferență nu reflectă o schimbare de capacitate, ci o schimbare de condiții: eliminarea presiunii evaluative a eliberat capacitățile de expresie ale elevilor [8, p. 143].
+
+**Persistența în fața dificultăților** a fost indicatorul cel mai izbitor al diferenței. În activitățile tradiționale, elevii care nu înțeleg o sarcină tind să rămână blocați sau să copieze de la colegi, evitând confruntarea cu dificultatea. În activitățile STREAM, aceeași elevi au demonstrat o reziliență surprinzătoare: grupele cu filtre de apă nefuncționale nu au abandonat, ci au analizat ce a mers greșit și au reluat experimentul. Această persistență nu a fost cerută explicit de cadrul didactic — ea a apărut din structura sarcinii, care permitea reluarea și ajustarea, și din contextul de grup, care transforma eșecul individual în problemă colectivă de rezolvat.
+
+**Tabel comparativ — implicare în activități STREAM vs. tradiționale:**
+
+| Indicator | Activități tradiționale | Activități STREAM |
+|---|---|---|
+| Nr. elevi participanți activ verbal | 8-10 din 22 | 19-22 din 22 |
+| Întrebări spontane pe oră | 2-4 | 10-15 |
+| Persistență la dificultăți | Scăzută (abandon rapid) | Ridicată (reluare și ajustare) |
+| Produse cu voce personală | Rare | Frecvente |
+| Implicare emoțională vizibilă | Ocazională | Consistentă |
+| Timp suplimentar petrecut pe sarcină | Minim | Frecvent (depășeau timpul alocat) |
+
+Aceste date comparative sunt coerente cu concluziile cercetărilor internaționale: Sun și Zhong (2024) raportează că activitățile de tip STREAM generează consistente câștiguri în implicare față de activitățile tradiționale, în special la nivelul dimensiunilor comportamentale și emoționale [30, p. 945].
+
+## 3.9. Transferul cunoașterii — ce au reținut elevii după o săptămână
+
+O săptămână după finalizarea activităților, în cadrul unei ore obișnuite de Știinte ale naturii, cadrul didactic a adresat clasei câteva întrebări informale despre temele abordate — fără avertizare prealabilă și fără anunțarea unui test. Scopul nu era evaluarea formală, ci observarea gradului de retenție și a calității cunoașterii construite.
+
+Rezultatele au fost surprinzătoare prin consistența lor. La întrebarea „Ce știți despre filtrarea apei?", 18 din 22 de elevi au putut descrie corect structura unui filtru simplu și principiul de funcționare al acestuia — inclusiv elevii care în mod obișnuit au dificultăți la reproducerea informațiilor din manual. Trei elevi au adăugat detalii suplimentare despre calitatea apei potabile și despre metodele industriale de purificare, informații pe care le cercetaseră acasă, dincolo de sarcina propusă.
+
+La întrebarea „Cine poate spune câteva surse de energie regenerabilă?", toți cei 22 de elevi au răspuns corect și au putut oferi exemple concrete, unii menționând panourile solare de pe acoperișul unui vecin sau turbinele eoliene văzute la televizor. Această ancorare a cunoașterii în experiența personală este un indicator al înțelegerii profunde, nu al memorării mecanice [25, p. 88].
+
+Mai semnificativă decât retenția factorilor a fost retenția atitudinilor. Trei elevi au menționat spontan că au schimbat comportamente acasă ca urmare a activităților: unul declara că „nu mai lasă robinetul deschis când se spală pe dinți", altul că „a convins-o pe mama să sorteze gunoiul", al treilea că „a plantat o plantă în ghiveci". Aceste mici schimbări comportamentale nu sunt cuantificabile și nu pot fi atribuite exclusiv activităților din săptămâna de cercetare, dar sunt relevante ca indicatori ai unui transfer atitudinal autentic — tocmai tipul de efect pe care Morin îl consideră finalitatea reală a educației [21, p. 52].
+
+Bruner a arătat că cunoașterea dobândită prin descoperire activă — în contrast cu cunoașterea receptată pasiv — are o rată de retenție semnificativ mai ridicată și se transferă mai ușor în situații noi [1, p. 44]. Datele informale colectate o săptămână după activități confirmă această predicție: elevii nu doar au reținut informații, ci și-au integrat o perspectivă — ecologică, responsabilă, curioasă — care a continuat să se manifeste în comportamentele lor cotidiene.
+
+## 3.10. Impactul activităților asupra coeziunii grupului și a climatului de clasă
+
+Un rezultat neanticipat al săptămânii de activități integrate a fost îmbunătățirea vizibilă a coeziunii grupului și a climatului afectiv al clasei. Această dimensiune nu a constituit un obiectiv explicit al cercetării, dar a apărut ca un efect emergent documentat prin observație sistematică și prin fragmentele din jurnalele reflexive.
+
+Activitățile de grup cu sarcini deschise au generat redistribuirea statusurilor sociale în cadrul clasei. Elevii cu rezultate școlare ridicate la testele tradiționale nu au dominat în mod automat munca în echipă — în mai multe cazuri, elevi cu performanțe școlare modeste au preluat roluri de lider, de expert tehnic sau de mediator de conflict, obținând recunoaștere socială pe care activitățile tradiționale nu o ofereau. Joița arată că restructurarea statusurilor sociale în grup este unul dintre efectele pe termen lung ale instruirii constructiviste, cu impact direct asupra climatului de clasă și a stării de bine a elevilor [42, p. 94].
+
+Un moment emblematic în acest sens a fost înregistrat în Ziua 4, când un elev cu dificultăți semnificative de scris-citit a demonstrat cunoștințe detaliate despre tehnicile de compostare și tipurile de sol — cunoștințe dobândite din activitatea agricolă a familiei sale. Intervenția sa a modificat percepția colegilor asupra lui pe tot restul săptămânii: el a fost consultat ca „expert în sol" în toate activitățile ulterioare care implicau această temă. Această schimbare de rol a produs un efect vizibil asupra participării sale — de la retras și ezitant la activ și voluntar.
+
+Cosmovici și Iacob subliniază că stima de sine școlară — percepția elevului despre propria valoare în contextul școlii — este cel mai puternic predictor al motivației pe termen lung [5, p. 96]. Activitățile STREAM, prin structura lor care valorifează multiple forme de competență, creează condiții pentru consolidarea stimei de sine la elevi care în evaluarea tradițională obțin feedback preponderent negativ. Efectul nu este imediat vizibil în note sau în rezultatele la teste, dar se manifestă în atitudine, în participare și în starea de bine în clasă — indicatori pe care evaluarea tradițională nu îi surprinde, dar care sunt esențiali pentru o educație autentică.

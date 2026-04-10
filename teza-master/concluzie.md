@@ -14,6 +14,10 @@ Răspunsul, susținut de observațiile sistematice, de jurnalele reflexive ale e
 
 **A cincea concluzie** este de natură metodologică: cercetarea-acțiune, în care cadrul didactic este și practician și investigator, are avantaje unice în documentarea practicii pedagogice. Cucoș subliniază că această dublă ipostază, cu toate limitele ei de obiectivitate, oferă un acces la nuanțele situaționale imposibil de obținut din exterior [9, p. 118]. Prezenta lucrare este, în același timp, un demers de cercetare și o reflecție profesională — și tocmai această combinație îi conferă valoarea practică principală.
 
+**A șasea concluzie** privește dezvoltarea limbajului și a capacității reflexive ca efecte secundare, dar semnificative, ale implicării în activitățile STREAM. Jurnalele reflexive ale elevilor au evidențiat o evoluție vizibilă a profunzimii reflecției de la prima la ultima zi — de la simpla descriere a ce s-a întâmplat la evaluare, analiză și conexiuni cu experiența personală. Această evoluție confirmă că scrierea reflexivă, practicată sistematic și fără presiunea evaluării, este un instrument puternic de consolidare a înțelegerii și de formare a metacogniției, chiar la vârsta de 9-10 ani [26, p. 89].
+
+**A șaptea concluzie** se referă la impactul activităților STREAM asupra coeziunii clasei ca grup. Redistribuirea statusurilor sociale, vizibilă în rolurile asumate spontan de elevi în cadrul echipelor, a îmbunătățit climatul afectiv al clasei și a oferit recunoaștere socială unor elevi care, în evaluarea tradițională, primeau în mod constant feedback negativ. Această dimensiune socio-emoțională a abordării STREAM este deseori subestimată în literatura de specialitate, care se concentrează preponderent pe rezultatele cognitive. Cosmovici și Iacob subliniază că stima de sine școlară este cel mai puternic predictor al motivației pe termen lung — or, orice abordare care consolidează stima de sine produce efecte pozitive asupra traseului școlar al elevului [5, p. 96].
+
 ---
 
 **Recomandări pentru cadre didactice**
@@ -29,6 +33,12 @@ Cadrelor didactice din ciclul primar care doresc să implementeze activități s
 *Includeți jurnalul reflexiv ca rutină, nu ca temă.* Trei-cinci minute la finalul fiecărei activități, în care fiecare elev scrie fără evaluare și fără corectare. Această practică simplă activează metacogniția, îmbogățește componenta R din STREAM și oferă cadrului didactic accesul cel mai direct la experiența emoțională a elevilor [9, p. 121].
 
 *Adaptați, nu abandonați, când ceva nu funcționează.* Unul dintre cele mai valoroase momente ale săptămânii a fost eșecul inițial al experimentului de filtrare și decizia grupurilor de a repeta, nu de a renunța. Rezistența la eșec se formează prin eșec gestionat bine — nu prin evitarea lui.
+
+*Documentați sistematic.* Observația pedagogică sistematică, consemnată zilnic, și jurnalele reflexive ale elevilor constituie resurse valoroase nu doar pentru cercetare, ci pentru propria reflecție profesională a cadrului didactic. Cadrul didactic care documentează propria practică devine mai atent la detaliile semnificative ale comportamentului elevilor și îmbunătățește treptat calitatea proiectării. Pânișoară numește această capacitate „practică reflexivă" și o consideră marca definitorie a profesionalismului didactic [26, p. 102].
+
+*Implicați familia.* Activitățile digitale de acasă au generat în mod spontan conversații între elevi și părinți, bunici sau frați pe teme ecologice. Această extensie a temei dincolo de școală este un indicator indirect al implicării autentice și contribuie la formarea atitudinilor pe termen lung. Familia nu trebuie privită ca destinatar al temei, ci ca partener în educație — iar activitățile STREAM, prin caracterul lor concret și vizual, sunt mai ușor de explicat și de împărtășit în familie decât activitățile tradiționale abstracte.
+
+*Acordați timp pentru prezentare și audiență reală.* Expoziția din ultima zi a reprezentat punctul culminant al săptămânii și a generat cele mai intense reacții emoționale. Nu subestimați puterea unui produs public: un elev care prezintă celorlalte clase un poster realizat de el trăiește un moment de mândrie și de competență care poate schimba percepția despre sine ca elev. Ionescu și Radu arată că momentul prezentării publice transformă activitatea didactică dintr-un exercițiu intern într-un act de comunicare autentică, cu toate consecințele motivaționale care decurg din aceasta [14, p. 78].
 
 ---
 

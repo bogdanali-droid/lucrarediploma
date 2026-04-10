@@ -189,11 +189,39 @@ Diplomele „Micii ecologiști", înmânate fiecărui elev la finalul expoziție
 [FOTO — Expoziția verde: lucrările elevilor expuse pe holul școlii]
 [FOTO — Înmânarea diplomelor „Micii ecologiști"]
 
-## 2.5. Limitele cercetării
+## 2.5. Analiza de ansamblu a componentelor STREAM pe parcursul săptămânii
+
+Privite retrospectiv, cele cinci zile de activități au constituit un ciclu complet de implementare STREAM, în care fiecare componentă a acronimului a fost prezentă în mod consistent, cu variații de intensitate de la o zi la alta. Tabelul de mai jos sintetizează modul în care fiecare componentă s-a manifestat concret în activitățile desfășurate:
+
+| Ziua | S — Știință | T — Tehnologie | R — Citire/Scriere | E — Engineering | A — Arte | M — Matematică |
+|---|---|---|---|---|---|---|
+| Luni — Natura | Funcțiile pădurii, biodiversitate, fotosinteza | PPT/Canva acasă | Slogane pe poster, compunere jurnal | Proiectarea parcului ecologic | Design poster, estetică vizuală | Calcule dimensiuni parc, date statistice |
+| Marți — Apa | Ciclul apei, filtrare, proprietăți | Poster digital acasă | Fișă observație, slogan, jurnal | Construcție filtru, testare, ajustare | Design slogan pe carton | Calcul consum apă, procente |
+| Miercuri — Energia | Surse regenerabile vs. poluante, energie solară | Clip CapCut/Canva acasă | Fișă comparativă, mesaj campanie, jurnal | Macheta casei ecologice | Design afiș campanie | Calcul consum energie, estimare |
+| Joi — Solul | Structura solului, microorganisme, reciclare | Proiect digital acasă | Poster secțiune transversală, jurnal | Sistem de sortare deșeuri, proiectare | Desen secțiune transversală | Calcul cantitate deșeuri, impact |
+| Vineri — Aerul | Poluarea aerului, surse, efecte | Clip video prezentare | Compunere liberă, jurnal final | Amenajare expoziție, organizare | Design expoziție, prezentare vizuală | Date statistice despre calitatea aerului |
+
+Analiza tabelului relevă câteva concluzii importante privind distribuția componentelor STREAM:
+
+Componenta **S (Știință)** a fost prezentă în toate cele cinci zile, cel mai intens în zilele 2 și 4 (activitățile experimentale). Conținuturile științifice au apărut întotdeauna în context aplicat, nu expozitiv: elevii nu au ascultat explicații despre filtrarea apei — au construit și testat filtre. Această abordare corespunde principiului constructivist al lui Piaget: înțelegerea se construiește prin acțiune, nu prin receptare pasivă [25, p. 72].
+
+Componenta **R (Citire și Scriere)** a fost prezentă în toate zilele și în toate formele posibile: scrierea reflexivă în jurnal (zilnic), scrieri funcționale (fișe de observație, etichete pe postere), scrierea persuasivă (slogane, mesaje de campanie) și narativă (compuneri). Această diversitate a formelor de scriere a demonstrat că literația nu este o disciplină separată, ci un instrument transversal indispensabil, prezent în orice activitate autentică [43, p. 30].
+
+Componenta **E (Engineering)** a apărut în mod sistematic și nu s-a limitat la construcția fizică: proiectarea parcului, construcția filtrului, amenajarea expoziției și organizarea sistemului de reciclare sunt toate acte de engineering în sensul extins — planificare, construcție, testare, ajustare. Această componentă a generat cel mai puternic indicator de implicare comportamentală: persistența în fața eșecului.
+
+Componenta **A (Arte)** a fost prezentă consistent și a servit nu ca decorare, ci ca instrument de comunicare. Designul vizual al posterelor, al afișelor de campanie și al machetelor a fost subordonat unui scop comunicativ clar: un poster frumos despre poluarea apei comunică mai eficient decât un text simplu. Această funcție instrumentală a artei corespunde tocmai argumentului lui Yakman pentru adăugarea componentei A în STEAM [38, p. 16].
+
+Componenta **M (Matematică)** a apărut în toate zilele în contexte aplicative directe — calcule de consum, estimări de cantitate, interpretarea datelor statistice. Aceasta a demonstrat că matematica este prezentă în mod natural în orice problemă reală, fără să fie nevoie să fie „predată" separat.
+
+Componenta **T (Tehnologie)** s-a manifestat preponderent în activitățile digitale de acasă, dar și în utilizarea tabletei și a proiectorului la clasă. Diversitatea instrumentelor digitale utilizate de elevi (PPT, Canva, CapCut, Word) a reflectat diversitatea profilurilor de învățare și a confirmat că libertatea de alegere a instrumentului este un factor esențial al autonomiei.
+
+## 2.6. Limitele cercetării
 
 Cercetarea de față recunoaște limitele inerente ale paradigmei calitative și ale contextului specific de desfășurare. Dimensiunea redusă a grupului (22 de elevi, o singură clasă), absența unui grup de control și implicarea directă a cercetătorului ca și cadru didactic aplicator sunt limitele principale asumate. Aceste limite nu reduc valoarea documentării unei practici autentice, ci definesc perimetrul în care concluziile sunt valabile și transferabile [9, p. 118].
 
 O altă limită asumată este imposibilitatea de a controla variabilele externe care influențează motivația și implicarea elevilor: starea de sănătate, contextul familial, evenimentele din viața personală a fiecărui copil. Cercetarea calitativă nu urmărește eliminarea acestor variabile, ci înțelegerea fenomenului în complexitatea sa reală [3, p. 81].
+
+O a treia limită privește subiectivitatea inerentă a cercetării-acțiune: cadrul didactic care proiectează și aplică demersul nu poate fi complet obiectiv în evaluarea rezultatelor sale. Această limită a fost parțial contrabalansată prin utilizarea mai multor instrumente de colectare a datelor (observație, jurnal, produse, discuții cu părinții) și prin raportarea sistematică a observațiilor negative și a obstacolelor — nu doar a succeselor. Jinga și Istrate subliniază că valoarea academică a unei cercetări-acțiune constă tocmai în onestitatea documentării, inclusiv a eșecurilor și a ajustărilor necesare [41, p. 234].
 
 
 
