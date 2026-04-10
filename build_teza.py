@@ -18,6 +18,7 @@ CHAPTERS = [
     (BASE + "/concluzie.md",    False),
     (BASE + "/bibliografie.md", False),
     (BASE + "/anexa_1_proiecte_didactice.md", True),
+    (BASE + "/anexa_2_instrumente_cercetare.md", True),
 ]
 
 def set_margins(doc, top_cm=1.5, bottom_cm=2.5, left_cm=2.5, right_cm=1.5):
