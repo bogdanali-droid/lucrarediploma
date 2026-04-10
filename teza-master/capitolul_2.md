@@ -72,6 +72,8 @@ Prezentarea lucrărilor a fost momentul de valorizare publică a muncii fiecăre
 
 Reflecția finală a zilei, consemnată în jurnale: „Cum ar arăta orașul meu dacă ar fi plin de parcuri?" — a produs unele dintre cele mai interesante texte ale întregii săptămâni, câțiva elevi descriind orașe imaginare cu detalii arhitecturale surprinzătoare.
 
+O observație importantă privind dinamica grupurilor în prima zi: echipele nu au fost alcătuite aleator, ci au inclus deliberat elevi cu profiluri complementare — un elev cu abilități artistice, unul cu orientare matematică, unul cu abilități lingvistice și unul mai organizatoric. Această compoziție heterogenă a generat, în câteva cazuri, tensiuni inițiale — elevi obișnuiți să lucreze cu prietenii apropiați au manifestat disconfort față de colegi mai puțin familiari. Cucoș arată că tocmai această disconfort inițial față de diversitate este o resursă pedagogică valoroasă: depășirea lui formează capacitatea de colaborare cu persoane diferite, o competență transversală esențială [8, p. 81]. La finalul zilei 1, toate grupele funcționau, toate produsele erau finalizate, iar câteva echipe „improbabile" la prima vedere produseseră cele mai interesante postere ale clasei.
+
 ---
 
 ### ZIUA 2 — MARȚI: Apa curată și cerul senin
@@ -215,7 +217,23 @@ Componenta **M (Matematică)** a apărut în toate zilele în contexte aplicativ
 
 Componenta **T (Tehnologie)** s-a manifestat preponderent în activitățile digitale de acasă, dar și în utilizarea tabletei și a proiectorului la clasă. Diversitatea instrumentelor digitale utilizate de elevi (PPT, Canva, CapCut, Word) a reflectat diversitatea profilurilor de învățare și a confirmat că libertatea de alegere a instrumentului este un factor esențial al autonomiei.
 
-## 2.6. Limitele cercetării
+## 2.6. Evaluarea autentică în contextul activităților STREAM
+
+Evaluarea în cadrul activităților STREAM descrise în prezenta lucrare s-a desfășurat după principiile evaluării autentice, care diferă fundamental de evaluarea tradițională prin natura probei, prin momentul aplicării și prin rolul atribuit elevului în procesul evaluativ.
+
+Evaluarea tradițională, dominantă în sistemul românesc, presupune un test sau o lucrare scrisă aplicată la finalul unei unități de conținut, în care elevul reproduce cunoașterea dobândită prin lecție și prin tema de acasă. Ionescu și Radu arată că această formă de evaluare măsoară, în realitate, capacitatea de memorare și de reproducere pe termen scurt, nu competența reală de utilizare a cunoașterii în contexte noi [14, p. 95]. Evaluarea autentică, în schimb, se realizează prin produse realizate de elevi în contexte reale de utilizare: un poster care va fi expus, un experiment al cărui rezultat contează, o prezentare adresată unor vizitatori reali.
+
+**Evaluarea prin produs** a constituit metoda principală utilizată în săptămâna de cercetare. Fiecare activitate a generat unul sau mai multe produse tangibile — postere, machete, compuneri, clip video — care au fost evaluate pe baza unor criterii comunicate elevilor din timp: claritatea mesajului, acuratețea informației, calitatea expresiei vizuale sau verbale și originalitatea abordării. Această transparență a criteriilor a transformat evaluarea dintr-un instrument de control al profesorului într-un ghid de autoevaluare pentru elev [7, p. 158].
+
+**Evaluarea formativă continuă** s-a realizat prin observarea sistematică a procesului de lucru: cum colaborează elevii, cum gestionează dificultățile, cum iau decizii, cum se raportează la contribuțiile colegilor. Pânișoară subliniază că observarea comportamentului în procesul de lucru este mai revelatorie decât orice test final, pentru că surprinde competențele procedurale care nu pot fi evaluate prin probe scrise [26, p. 138]. Grilele de observație utilizate în cercetare au urmărit exact aceste comportamente, oferind un profil bogat al fiecărui elev care nu poate fi redat printr-o notă.
+
+**Autoevaluarea și evaluarea inter-pari** au apărut spontan în mai multe momente. La expoziție, când elevii prezentau lucrările altor clase, au primit feedback verbal imediat — comentarii, întrebări, aprecieri. Acest feedback din exterior a funcționat ca o formă de evaluare autentică, mult mai motivantă decât nota profesorului: vizitatorii de la expoziție nu știau că evaluează, evaluau pur și simplu dacă mesajul posterului era clar și convingător. Bruner arată că produsele destinate unor audiențe reale generează un nivel de îngrijire și de implicare incomparabil față de produsele destinate exclusiv profesorului [1, p. 48].
+
+**Jurnalul reflexiv ca instrument de autoevaluare** s-a dovedit, pe parcursul săptămânii, mai mult decât un simplu jurnal de impresii: el a funcționat ca un instrument de auto-monitorizare a înțelegerii. Elevii care scriau „nu am înțeles de ce filtrul nu a funcționat prima dată" identificau implicit o lacună cognitivă și o formulau ca pe o problemă de rezolvat, nu ca pe un eșec definitiv. Această funcție metacognitivă a jurnalului, de instrument al autoevaluării formative, a fost valorificată sistematic de cadrul didactic, care a citit jurnalele zilnic și a adaptat activitățile din ziua următoare în funcție de informațiile colectate.
+
+Adoptarea evaluării autentice în contextul STREAM presupune din partea cadrului didactic disponibilitatea de a renunța la certitudinea notei unice și de a accepta că același produs poate demonstra competențe diferite la elevi diferiți. Un poster realizat de un elev cu abilități artistice remarcabile dar cunoștințe științifice limitate va arăta altfel decât posterul unui elev cu cunoștințe bogate dar abilități grafice modeste — și ambele pot fi considerate produse de calitate dacă evaluarea pornește de la profilul real al elevului, nu de la un standard uniform. Tomlinson arată că tocmai această flexibilitate a standardelor de evaluare este esența pedagogiei diferențiate [32, p. 24].
+
+## 2.7. Limitele cercetării
 
 Cercetarea de față recunoaște limitele inerente ale paradigmei calitative și ale contextului specific de desfășurare. Dimensiunea redusă a grupului (22 de elevi, o singură clasă), absența unui grup de control și implicarea directă a cercetătorului ca și cadru didactic aplicator sunt limitele principale asumate. Aceste limite nu reduc valoarea documentării unei practici autentice, ci definesc perimetrul în care concluziile sunt valabile și transferabile [9, p. 118].
 
