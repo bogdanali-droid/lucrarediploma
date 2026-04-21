@@ -11,7 +11,8 @@ from docx.oxml import OxmlElement
 BASE = "/home/user/lucrarediploma/teza-master"
 
 CHAPTERS = [
-    (BASE + "/introducere.md",  False),
+    (BASE + "/cuprins.md",      False),
+    (BASE + "/introducere.md",  True),
     (BASE + "/capitolul_1.md",  True),
     (BASE + "/capitolul_2.md",  True),
     (BASE + "/capitolul_3.md",  True),
