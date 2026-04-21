@@ -83,6 +83,37 @@ def add_inline(para, text):
             r = para.add_run(part)
             fmt_run(r)
 
+def setup_heading_styles(doc):
+    """Configurează stilurile Heading 1/2/3 să folosească TNR și formatarea UPSC."""
+    h1 = doc.styles['Heading 1']
+    h1.font.name = 'Times New Roman'
+    h1.font.size = Pt(14)
+    h1.font.bold = True
+    h1.font.color.rgb = RGBColor(0, 0, 0)
+    h1.paragraph_format.space_before = Pt(0)
+    h1.paragraph_format.space_after = Pt(12)
+    h1.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    h1.paragraph_format.first_line_indent = Cm(0)
+
+    h2 = doc.styles['Heading 2']
+    h2.font.name = 'Times New Roman'
+    h2.font.size = Pt(13)
+    h2.font.bold = True
+    h2.font.color.rgb = RGBColor(0, 0, 0)
+    h2.paragraph_format.space_before = Pt(12)
+    h2.paragraph_format.space_after = Pt(6)
+    h2.paragraph_format.first_line_indent = Cm(0)
+
+    h3 = doc.styles['Heading 3']
+    h3.font.name = 'Times New Roman'
+    h3.font.size = Pt(12)
+    h3.font.bold = True
+    h3.font.italic = True
+    h3.font.color.rgb = RGBColor(0, 0, 0)
+    h3.paragraph_format.space_before = Pt(6)
+    h3.paragraph_format.space_after = Pt(3)
+    h3.paragraph_format.first_line_indent = Cm(0)
+
 def process_file(doc, filepath, page_break_before=False):
     with open(filepath, encoding='utf-8') as f:
         lines = f.readlines()
@@ -103,15 +134,11 @@ def process_file(doc, filepath, page_break_before=False):
             i += 1
             continue
 
-        # H1
+        # H1 — foloseste stilul Heading 1 real (Word TOC îl recunoaște)
         if line.startswith('# ') and not line.startswith('## '):
             title = line[2:].strip()
-            p = doc.add_paragraph()
-            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-            pf = p.paragraph_format
-            pf.space_before = Pt(0)
-            pf.space_after  = Pt(12)
-            pf.first_line_indent = Cm(0)
+            p = doc.add_paragraph(style='Heading 1')
+            p.clear()
             r = p.add_run(title.upper())
             r.font.name = 'Times New Roman'
             r.font.size = Pt(14)
@@ -119,14 +146,11 @@ def process_file(doc, filepath, page_break_before=False):
             i += 1
             continue
 
-        # H2
+        # H2 — foloseste stilul Heading 2 real
         if line.startswith('## ') and not line.startswith('### '):
             title = line[3:].strip()
-            p = doc.add_paragraph()
-            pf = p.paragraph_format
-            pf.space_before = Pt(12)
-            pf.space_after  = Pt(6)
-            pf.first_line_indent = Cm(0)
+            p = doc.add_paragraph(style='Heading 2')
+            p.clear()
             r = p.add_run(title)
             r.font.name = 'Times New Roman'
             r.font.size = Pt(13)
@@ -134,14 +158,11 @@ def process_file(doc, filepath, page_break_before=False):
             i += 1
             continue
 
-        # H3
+        # H3 — foloseste stilul Heading 3 real
         if line.startswith('### '):
             title = line[4:].strip()
-            p = doc.add_paragraph()
-            pf = p.paragraph_format
-            pf.space_before = Pt(6)
-            pf.space_after  = Pt(3)
-            pf.first_line_indent = Cm(0)
+            p = doc.add_paragraph(style='Heading 3')
+            p.clear()
             r = p.add_run(title)
             r.font.name = 'Times New Roman'
             r.font.size = Pt(12)
@@ -255,6 +276,7 @@ def main():
 
     set_margins(doc, top_cm=1.5, bottom_cm=2.5, left_cm=2.5, right_cm=1.5)
     add_page_numbers(doc)
+    setup_heading_styles(doc)
 
     first = True
     for filepath, pb in CHAPTERS:
